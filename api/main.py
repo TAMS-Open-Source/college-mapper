@@ -74,4 +74,5 @@ class ShortCollege(Resource):
 api.add_resource(ShortCollege, '/short_college')
 
 if __name__ == '__main__':
-  app.run() # run our flask app
+  # run flask app on localhost:5000
+  app.run(host='localhost', port = 5000) # run our flask app
