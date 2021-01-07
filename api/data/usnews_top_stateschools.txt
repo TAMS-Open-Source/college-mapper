@@ -1,0 +1,269 @@
+University of California--Los Angeles
+Los Angeles, CA
+
+#1
+in
+Top Public Schools
+$42,980 (out-of-state)
+$13,226 (in-state)	
+31,543		
+
+University of California--Berkeley
+Berkeley, CA
+
+#2
+in
+Top Public Schools
+$43,980 (out-of-state)
+$14,226 (in-state)	
+31,780		
+
+University of Michigan--Ann Arbor
+Ann Arbor, MI
+
+#3
+in
+Top Public Schools
+$52,266 (out-of-state)
+$15,948 (in-state)	
+31,266		
+
+University of Virginia
+Charlottesville, VA
+
+#4
+in
+Top Public Schools
+$52,957 (out-of-state)
+$18,878 (in-state)	
+17,011		
+
+University of North Carolina--Chapel Hill
+Chapel Hill, NC
+
+#5
+in
+Top Public Schools
+$36,200 (out-of-state)
+$9,021 (in-state)	
+19,355		
+
+University of California--Santa Barbara
+Santa Barbara, CA
+
+#6
+in
+Top Public Schools (tie)
+$44,145 (out-of-state)
+$14,391 (in-state)	
+23,349		
+
+University of Florida
+Gainesville, FL
+
+#6
+in
+Top Public Schools (tie)
+$28,658 (out-of-state)
+$6,380 (in-state)	
+35,405		
+
+Georgia Institute of Technology
+Atlanta, GA
+
+#8
+in
+Top Public Schools (tie)
+$33,794 (out-of-state)
+$12,682 (in-state)	
+15,964		
+
+University of California--Irvine
+Irvine, CA
+
+#8
+in
+Top Public Schools (tie)
+$43,686 (out-of-state)
+$13,932 (in-state)	
+30,382		
+
+University of California--San Diego
+La Jolla, CA
+
+#8
+in
+Top Public Schools (tie)
+$44,205 (out-of-state)
+$14,451 (in-state)	
+30,794		
+
+University of California--Davis
+Davis, CA
+
+#11
+in
+Top Public Schools (tie)
+$44,407 (out-of-state)
+$14,653 (in-state)	
+30,982		
+
+William & Mary
+Williamsburg, VA
+
+#11
+in
+Top Public Schools (tie)
+$46,283 (out-of-state)
+$23,362 (in-state)	
+6,256		
+
+University of Texas at Austin
+Austin, TX
+
+#13
+in
+Top Public Schools (tie)
+$39,322 (out-of-state)
+$11,106 (in-state)	
+40,163		
+
+University of Wisconsin--Madison
+Madison, WI
+
+#13
+in
+Top Public Schools (tie)
+$38,629 (out-of-state)
+$10,741 (in-state)	
+33,456		
+
+University of Georgia
+Athens, GA
+
+#15
+in
+Top Public Schools (tie)
+$31,120 (out-of-state)
+$12,080 (in-state)	
+29,848		
+
+University of Illinois--Urbana-Champaign
+Champaign, IL
+
+#15
+in
+Top Public Schools (tie)
+$34,312 (out-of-state)
+$16,862 (in-state)	
+34,120		
+
+Ohio State University--Columbus
+Columbus, OH
+
+#17
+in
+Top Public Schools (tie)
+$33,501 (out-of-state)
+$11,517 (in-state)	
+46,818		
+
+Purdue University--West Lafayette
+West Lafayette, IN
+
+#17
+in
+Top Public Schools (tie)
+$28,794 (out-of-state)
+$9,992 (in-state)	
+33,646		
+
+Florida State University
+Tallahassee, FL
+
+#19
+in
+Top Public Schools (tie)
+$21,673 (out-of-state)
+$6,507 (in-state)	
+33,270		
+
+University of Maryland--College Park
+College Park, MD
+
+#19
+in
+Top Public Schools (tie)
+$36,890 (out-of-state)
+$10,778 (in-state)	
+30,511		
+
+University of Pittsburgh--Pittsburgh Campus
+Pittsburgh, PA
+
+#19
+in
+Top Public Schools (tie)
+$33,706 (out-of-state)
+$19,678 (in-state)	
+19,200		
+
+University of Washington
+Seattle, WA
+
+#19
+in
+Top Public Schools (tie)
+$39,461 (out-of-state)
+$12,092 (in-state)	
+32,046		
+
+Pennsylvania State University--University Park
+University Park, PA
+
+#23
+in
+Top Public Schools (tie)
+$35,514 (out-of-state)
+$18,450 (in-state)	
+40,639		
+
+Rutgers University--New Brunswick
+Piscataway, NJ
+
+#23
+in
+Top Public Schools (tie)
+$31,785 (out-of-state)
+$15,003 (in-state)	
+36,158		
+
+University of Connecticut
+Storrs, CT
+
+#23
+in
+Top Public Schools (tie)
+$40,502 (out-of-state)
+$17,834 (in-state)	
+18,847		
+
+Texas A&M University
+College Station, TX
+
+#26
+in
+Top Public Schools (tie)
+$39,394 (out-of-state)
+$12,445 (in-state)	
+53,791		
+
+University of Massachusetts--Amherst
+Amherst, MA
+
+#26
+in
+Top Public Schools (tie)
+$35,710 (out-of-state)
+$16,389 (in-state)	
+24,209		

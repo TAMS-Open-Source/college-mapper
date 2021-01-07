@@ -1,0 +1,481 @@
+Princeton University
+Princeton, NJ
+
+#1
+in
+National Universities
+$53,890	
+5,422		
+
+Harvard University
+Cambridge, MA
+
+#2
+in
+National Universities
+$54,002	
+6,755		
+
+Columbia University
+New York, NY
+
+#3
+in
+National Universities
+$64,380	
+6,245		
+
+Massachusetts Institute of Technology
+Cambridge, MA
+
+#4
+in
+National Universities (tie)
+$53,818	
+4,530		
+
+Yale University
+New Haven, CT
+
+#4
+in
+National Universities (tie)
+$57,700	
+6,092		
+
+Stanford University
+Stanford, CA
+
+#6
+in
+National Universities (tie)
+$56,169	
+6,996		
+
+University of Chicago
+Chicago, IL
+
+#6
+in
+National Universities (tie)
+$59,298	
+6,734		
+
+University of Pennsylvania
+Philadelphia, PA
+
+#8
+in
+National Universities
+$60,042	
+10,019		
+
+California Institute of Technology
+Pasadena, CA
+
+#9
+in
+National Universities (tie)
+$56,862	
+938		
+
+Johns Hopkins University
+Baltimore, MD
+
+#9
+in
+National Universities (tie)
+$57,010	
+6,256		
+
+Northwestern University
+Evanston, IL
+
+#9
+in
+National Universities (tie)
+$58,701	
+8,327		
+
+Duke University
+Durham, NC
+
+#12
+in
+National Universities
+$60,488	
+6,649		
+
+Dartmouth College
+Hanover, NH
+
+#13
+in
+National Universities
+$59,458	
+4,459		
+
+Brown University
+Providence, RI
+
+#14
+in
+National Universities (tie)
+$60,696	
+7,160		
+
+Vanderbilt University
+Nashville, TN
+
+#14
+in
+National Universities (tie)
+$54,158	
+6,886		
+
+Rice University
+Houston, TX
+
+#16
+in
+National Universities (tie)
+$51,107	
+3,989		
+
+Washington University in St. Louis
+St. Louis, MO
+
+#16
+in
+National Universities (tie)
+$57,386	
+7,822		
+
+Cornell University
+Ithaca, NY
+
+#18
+in
+National Universities
+$59,316	
+15,043		
+
+University of Notre Dame
+Notre Dame, IN
+
+#19
+in
+National Universities
+$57,699	
+8,731		
+
+University of California--Los Angeles
+Los Angeles, CA
+
+#20
+in
+National Universities
+$42,980 (out-of-state)
+$13,226 (in-state)	
+31,543		
+
+Emory University
+Atlanta, GA
+
+#21
+in
+National Universities
+$53,868	
+7,118		
+
+University of California--Berkeley
+Berkeley, CA
+
+#22
+in
+National Universities
+$43,980 (out-of-state)
+$14,226 (in-state)	
+31,780		
+
+Georgetown University
+Washington, DC
+
+#23
+in
+National Universities
+$57,928	
+7,513		
+
+University of Michigan--Ann Arbor
+Ann Arbor, MI
+
+#24
+in
+National Universities (tie)
+$52,266 (out-of-state)
+$15,948 (in-state)	
+31,266		
+
+University of Southern California
+Los Angeles, CA
+
+#24
+in
+National Universities (tie)
+$59,072	
+20,351		
+
+Carnegie Mellon University
+Pittsburgh, PA
+
+#26
+in
+National Universities (tie)
+$58,924	
+7,022		
+
+University of Virginia
+Charlottesville, VA
+
+#26
+in
+National Universities (tie)
+$52,957 (out-of-state)
+$18,878 (in-state)	
+17,011		
+
+University of North Carolina--Chapel Hill
+Chapel Hill, NC
+
+#28
+in
+National Universities (tie)
+$36,200 (out-of-state)
+$9,021 (in-state)	
+19,355		
+
+Wake Forest University
+Winston-Salem, NC
+
+#28
+in
+National Universities (tie)
+$57,760	
+5,287		
+
+New York University
+New York, NY
+
+#30
+in
+National Universities (tie)
+$54,880	
+26,981		
+
+Tufts University
+Medford, MA
+
+#30
+in
+National Universities (tie)
+$60,862	
+5,907		
+
+University of California--Santa Barbara
+Santa Barbara, CA
+
+#30
+in
+National Universities (tie)
+$44,145 (out-of-state)
+$14,391 (in-state)	
+23,349		
+
+University of Florida
+Gainesville, FL
+
+#30
+in
+National Universities (tie)
+$28,658 (out-of-state)
+$6,380 (in-state)	
+35,405		
+
+University of Rochester
+Rochester, NY
+
+#34
+in
+National Universities
+$58,208	
+6,780		
+
+Boston College
+Chestnut Hill, MA
+
+#35
+in
+National Universities (tie)
+$60,202	
+9,370		
+
+Georgia Institute of Technology
+Atlanta, GA
+
+#35
+in
+National Universities (tie)
+$33,794 (out-of-state)
+$12,682 (in-state)	
+15,964		
+
+University of California--Irvine
+Irvine, CA
+
+#35
+in
+National Universities (tie)
+$43,686 (out-of-state)
+$13,932 (in-state)	
+30,382		
+
+University of California--San Diego
+La Jolla, CA
+
+#35
+in
+National Universities (tie)
+$44,205 (out-of-state)
+$14,451 (in-state)	
+30,794		
+
+University of California--Davis
+Davis, CA
+
+#39
+in
+National Universities (tie)
+$44,407 (out-of-state)
+$14,653 (in-state)	
+30,982		
+
+William & Mary
+Williamsburg, VA
+
+#39
+in
+National Universities (tie)
+$46,283 (out-of-state)
+$23,362 (in-state)	
+6,256		
+
+Tulane University
+New Orleans, LA
+
+#41
+in
+National Universities
+$58,852	
+6,968		
+
+Boston University
+Boston, MA
+
+#42
+in
+National Universities (tie)
+$58,072	
+17,983		
+
+Brandeis University
+Waltham, MA
+
+#42
+in
+National Universities (tie)
+$57,615	
+3,688		
+
+Case Western Reserve University
+Cleveland, OH
+
+#42
+in
+National Universities (tie)
+$52,948	
+5,383		
+
+University of Texas at Austin
+Austin, TX
+
+#42
+in
+National Universities (tie)
+$39,322 (out-of-state)
+$11,106 (in-state)	
+40,163		
+
+University of Wisconsin--Madison
+Madison, WI
+
+#42
+in
+National Universities (tie)
+$38,629 (out-of-state)
+$10,741 (in-state)	
+33,456		
+
+University of Georgia
+Athens, GA
+
+#47
+in
+National Universities (tie)
+$31,120 (out-of-state)
+$12,080 (in-state)	
+29,848		
+
+University of Illinois--Urbana-Champaign
+Champaign, IL
+
+#47
+in
+National Universities (tie)
+$34,312 (out-of-state)
+$16,862 (in-state)	
+34,120		
+
+Lehigh University
+Bethlehem, PA
+
+#49
+in
+National Universities (tie)
+$55,260	
+5,178		
+
+Northeastern University
+Boston, MA
+
+#49
+in
+National Universities (tie)
+$55,382	
+14,202		
+
+Pepperdine University
+Malibu, CA
+
+#49
+in
+National Universities (tie)
+$58,002	
+3,583		
+
+University of Miami
+Coral Gables, FL
+
+#49
+in
+National Universities (tie)
