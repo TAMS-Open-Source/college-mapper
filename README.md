@@ -7,6 +7,10 @@ The purpose of this project is to create a web application to allow people to se
 
 To run for development, you must start the server and run the client. The server allows you to retrieve the necessary data, and the client enables you to see the app itself.
 
+If you haven't already:
+* [Install Python](https://realpython.com/installing-python/)
+* [Install Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+
 ### Running the Server
 Navigate into the API directory:
 ` cd api 	`
