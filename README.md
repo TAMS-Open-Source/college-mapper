@@ -32,6 +32,11 @@ Install the packages and run:
 
 The website will be up and running on `localhost: 3000` by default.
 
+## Contributing to Front End
+To build a component (like a calendar, button, etc.) you should use [storybook](https://storybook.js.org/docs/react/get-started/introduction). Run this using `yarn storybook` (after completing the previous installation steps.) On `localhost: 6006`, you will see a storybook with the different components.
+
+Your component will be made in the `components` file, under its own folder. Once you create a `[component name].stories.js` file, you can see a preview of your component in the storybook.
+
 
 ## Getting Help
 If you need help getting the project running, contact Nathaniel on Facebook Messenger or email tamsopensource@gmail.com.
