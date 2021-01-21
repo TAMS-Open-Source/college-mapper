@@ -9,6 +9,7 @@ To run for development, you must start the server and run the client. The server
 
 If you haven't already:
 * [Install Python](https://realpython.com/installing-python/)
+* [Install Node.js (comes with NPM)](https://nodejs.org/en/download/)
 * [Install Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 ### Running the Server
